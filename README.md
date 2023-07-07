@@ -2,4 +2,4 @@
 <p>Praticando javascript com manuseio de elementos html.</p>
 
 <b>Acesse o link do projeto:</b> 
-https://charlescript.github.io/grupo-book/
+https://charlescript.github.io/aluramid/
